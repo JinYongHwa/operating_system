@@ -82,17 +82,14 @@ ex)  drwxr-xr-x
      b 인 경우 : block device. 블럭 단위로 하드웨어와 반응하는 파일
      c 인 경우 : character device. 스트림 단위로 하드웨어와 반응하는 파일
 
-2~4필드 : 소유주 (USER) 권한
-5~7필드 : 그룹 (Group) 권한
-8~10필드 : 나머지 (Others) 권한
+2-4필드 : 소유주 (USER) 권한
+5-7필드 : 그룹 (Group) 권한
+8-10필드 : 나머지 (Others) 권한
 
 r : 읽기권한(read) = 4
 w : 쓰기권한(write) = 2
 x : 실행권한(eXecute) = 1
 - : 권한 없음 설정 = 0
-
-
-출처: https://pliss.tistory.com/95 [Pliss]
 
 ### chown [소유자(:그룹)] [파일/디렉토리명]
 특정 파일이나 디렉토리의 소유자를 변경함
