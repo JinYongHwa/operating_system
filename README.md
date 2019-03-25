@@ -1,6 +1,12 @@
 ## GitHub 주소
 https://github.com/JinYongHwa/operating_system
 
+## Email 주소
+yhjin@hhsoft.co.kr
+
+## 레포트
+VIM 에디터 명령어/사용법 조사해서 이메일로보내기
+
 
 ## 참고 링크
 - [우분투 한국 커뮤니티 포럼](https://forum.ubuntu-kr.org/index.php)
