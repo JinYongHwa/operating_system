@@ -196,9 +196,12 @@ ex)  drwxr-xr-x
 
 ### export
 환경변수를 등록하는 명령어
-> ex)
-> export NAME="JINYONGHWA"
-> echo $NAME
+
+ex)
+``` bash
+export NAME="JINYONGHWA"
+echo $NAME
+```
 
 # Bash Shell
 
