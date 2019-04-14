@@ -193,3 +193,17 @@ ex)  drwxr-xr-x
 - _: 가장 최근에 실행한 명령어
 - OSTYPE: os의 타입 (centos는 linux-gnu)
 - HISTFILESIZE: 히스토리 기록의 최대 라인 수
+
+### export
+환경변수를 등록하는 명령어
+> ex)
+> export NAME="JINYONGHWA"
+> echo $NAME
+
+# Bash Shell
+
+### ~/.bashrc
+새터미널창을 열거나 로그인 했을때 실행되는 파일
+
+### ~/.bash_logout
+사용자가 로그아웃 하였을때 실행되는 
