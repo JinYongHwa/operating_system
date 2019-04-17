@@ -19,7 +19,7 @@ sudo service nginx start
 sudo service nginx stop
 ```
 
-## Nginx 설정파일
+## Nginx 설정파일 경로
 /etc/nginx/nginx.conf
 
 ## Nginx 설정 변경
