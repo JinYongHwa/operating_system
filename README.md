@@ -218,3 +218,12 @@ echo $NAME
 
 ### ~/.bash_logout
 사용자가 로그아웃 하였을때 실행되는 
+
+
+### hello.py
+``` python
+import time
+while True:
+ time.sleep(3)
+ print("hello")
+```
