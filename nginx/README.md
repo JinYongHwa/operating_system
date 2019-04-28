@@ -26,3 +26,8 @@ sudo service nginx stop
 ``` bash
 sudo service nginx reload
 ```
+
+
+# Nginx를 이용한 부하분산
+
+![Nginx를 이용한 부하분산](https://github.com/JinYongHwa/operating_system/raw/master/nginx/Load-Balancer-Performance-With-SaltStack-And-Nginx.jpg)
