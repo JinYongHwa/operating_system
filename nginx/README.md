@@ -69,7 +69,9 @@ events {
 ```
 
 NGINX의 특징인 비동기 이벤트 처리 방식에 대한 옵션을 설정한다.
+
 worker_connections는 하나의 프로세스가 처리할 수 있는 커넥션의 수를 의미한다.
+
 최대 접속자수 = worker_processes X worket_connections가 된다.
 
 
@@ -107,5 +109,5 @@ types_hash_max_size, server_names_hash_bucket_size 호스트의 도메인 이름
 
 
 참고링크
-https://opentutorials.org/module/384/3462
-https://extrememanual.net/9976
+- https://opentutorials.org/module/384/3462
+- https://extrememanual.net/9976
