@@ -32,3 +32,24 @@ sudo service nginx reload
 
 ![Nginx를 이용한 부하분산](https://github.com/JinYongHwa/operating_system/raw/master/nginx/Load-Balancer-Performance-With-SaltStack-And-Nginx.jpg)
 [이미지출처](https://www.opcito.com/blogs/improve-your-load-balancer-performance-with-saltstack-and-nginx-2/)
+
+
+
+## Load Balance 를 위한 nginx 설정
+
+``` conf
+worker_processes  1;
+events {
+    worker_connections  1024;
+}
+http { 
+    include       mime.types;
+    server {
+        listen       80;
+        location / {
+            root   html;
+            index  index.html index.htm;
+        }
+    }
+}
+```
