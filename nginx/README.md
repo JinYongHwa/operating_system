@@ -107,6 +107,8 @@ types_hash_max_size, server_names_hash_bucket_size 호스트의 도메인 이름
 
 
 
+[Nginx 설정예제](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
+
 
 참고링크
 - https://opentutorials.org/module/384/3462
