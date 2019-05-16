@@ -4,4 +4,4 @@
 
 ## 웹서비스 접근을 위한 DNS 요청 흐름
 ![웹서비스 접근을 위한 DNS 요청 흐름](https://github.com/JinYongHwa/operating_system/raw/master/dns/dns_aws.png)
-[참고링크](https://aws.amazon.com/ko/route53/what-is-dns/ "참고링크" target="_blank")
+[참고링크](https://aws.amazon.com/ko/route53/what-is-dns/" target="_blank)
