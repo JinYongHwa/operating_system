@@ -9,3 +9,22 @@
 
 ## 도메인의 구조
 ![도메인의 구조](https://github.com/JinYongHwa/operating_system/raw/master/dns/domain.jpg)
+
+
+
+## bind9 설치
+
+```
+sudo apt-get install bind9
+```
+
+## bind9 설정
+
+
+
+
+## bind9 실행
+
+```
+sudo service bind9 start
+```
