@@ -122,7 +122,7 @@ sudo apt-get install libpcre3-dev
 cd nginx-1.17.0
 ./configure
 make
-make install
+sudo make install
 ```
 
 
