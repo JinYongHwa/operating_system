@@ -1,6 +1,6 @@
 # Telnet 설치 및설정
 
-``` java
+``` bash
 sudo apt-get install xinetd
 ```
 
