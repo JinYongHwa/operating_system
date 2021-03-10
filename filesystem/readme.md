@@ -1,7 +1,7 @@
 ![파일시스템](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGhRk7%2FbtqxJTgSOFr%2FGhgOoBFWKnFHbM8akjdWJk%2Fimg.png)
 
 
-# 2. 파일 시스템
+# 파일 시스템
 - 파일 시스템은 파일의 저장, 액세스, 공유, 보호 등 보조기억장치에서의 파일을 총괄하는 파일 관리 기술이다.
 
 
