@@ -26,7 +26,7 @@ apt-get은 인덱스를 가지고 있는데 이 인덱스는 /etc/apt/sources.li
 ### sudo apt-get upgade
 설치되어 있는 패키지를 모두 새버전으로 업그래이드 합니다.
 
-### sudo apt-get [패키지명]
+### sudo apt-get install [패키지명]
 특정 패키지 설치
 
 ### sudo apt-cache  search [패키지명]
