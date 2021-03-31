@@ -224,3 +224,13 @@ while True:
  time.sleep(3)
  print("hello")
 ```
+
+### hello.sh
+``` bash
+while : 
+do 
+ echo "hello" 
+ sleep 1 
+ done
+
+```
