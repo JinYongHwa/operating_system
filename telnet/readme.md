@@ -25,3 +25,13 @@ service telnet
  log_on_failure += USERID
 }
 ```
+
+
+# Open SSH 설치 & 실행
+``` bash
+sudo apt-get install openssh-server
+```
+
+``` bash
+sudo service ssh start
+```
