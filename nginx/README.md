@@ -27,10 +27,16 @@ sudo service nginx stop
 sudo service nginx reload
 ```
 
+## Nginx vs Apache
+![apache](https://github.com/JinYongHwa/operating_system/raw/master/nginx/apach.png)
+
+![nginx](https://github.com/JinYongHwa/operating_system/raw/master/nginx/nginx.png)
+
 
 # Nginx를 이용한 부하분산
 
 ![Nginx를 이용한 부하분산](https://github.com/JinYongHwa/operating_system/raw/master/nginx/Load-Balancer-Performance-With-SaltStack-And-Nginx.jpg)
+
 [이미지출처](https://www.opcito.com/blogs/improve-your-load-balancer-performance-with-saltstack-and-nginx-2/)
 
 
