@@ -27,10 +27,24 @@ sudo service nginx stop
 sudo service nginx reload
 ```
 
+## Nginx Websocket proxy
+``` bash
+   proxy_http_version 1.1;
+    proxy_set_header Upgrade $http_upgrade;
+    proxy_set_header Connection "Upgrade";
+    proxy_set_header Host $host;
+```
+
+## Nginx vs Apache
+![apache](https://github.com/JinYongHwa/operating_system/raw/master/nginx/apach.png)
+
+![nginx](https://github.com/JinYongHwa/operating_system/raw/master/nginx/nginx.png)
+
 
 # Nginx를 이용한 부하분산
 
 ![Nginx를 이용한 부하분산](https://github.com/JinYongHwa/operating_system/raw/master/nginx/Load-Balancer-Performance-With-SaltStack-And-Nginx.jpg)
+
 [이미지출처](https://www.opcito.com/blogs/improve-your-load-balancer-performance-with-saltstack-and-nginx-2/)
 
 

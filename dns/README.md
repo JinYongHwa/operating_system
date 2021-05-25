@@ -10,6 +10,8 @@
 ## 도메인의 구조
 ![도메인의 구조](https://github.com/JinYongHwa/operating_system/raw/master/dns/domain.jpg)
 
+## Root DNS
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Root-current.svg/1000px-Root-current.svg.png)
 
 
 ## bind9 설치
